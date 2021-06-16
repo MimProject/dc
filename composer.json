@@ -1,0 +1,21 @@
+{
+    "name": "mim/dc",
+    "description": "Generic function and convention to trigger deprecation notices",
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "function.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Théo Sikli",
+            "email": "theo@theo-sikli.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
